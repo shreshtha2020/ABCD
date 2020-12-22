@@ -32,13 +32,3 @@
 
 <button type="button" onclick="document.getElementById('demo').style.fontSize='35px'">Click Me!</button>
 
-
-	</body>
-</head>
-</html>
-
-/*<table Style ="background-image: gray"> </table>
-<tr> 
-<th> Name</th>  <th> Job Title </th>   <th> Email ID</th>   <th> Mobile No</th>   <th> Address</th>   <th> H.no</th>   <th> Office Address</th>  
-<td> Shreshtha  </td>  <td> GET  </td>  <td> Abc@gmail.com  </td>  <td> Jsr  </td>  <td> 16  </td>  <td> navi mumbai  </td>
-</tr>*/
